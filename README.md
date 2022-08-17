@@ -23,7 +23,7 @@ This part is attached to the _Base Palte_
 _Mirror V2:_
 This part is attached to the _Base Palte_
 
-Prism 12.5mm:_
+_Prism 12.5mm:_
 This part is attached to the _Base Palte_
 
 _Mirror 25mm:_
