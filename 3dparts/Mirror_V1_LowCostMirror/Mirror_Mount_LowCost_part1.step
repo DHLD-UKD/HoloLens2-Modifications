@@ -9,10 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 
-'C:/HoloLens2-Modification/HL2Modification - Mount_Mirror_1mm v1.step',
+/* name */ 'C:/HoloLens2-Modification/Mirror_Mount_LowCost_part1.step',
 
-/* time_stamp */ '2022-08-17T12:21:52+02:00',
+/* time_stamp */ '2022-08-17T15:34:06+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19',
@@ -2179,13 +2178,13 @@ SOLID_ANGLE_UNIT()
 #1950=SHAPE_REPRESENTATION('',(#945),#1938);
 #1951=PRODUCT_DEFINITION_CONTEXT('part definition',#1959,'design');
 #1952=PRODUCT_DEFINITION('HL2Modification - Mount_Mirror_1mm',
-'HL2Modification - Mount_Mirror_1mm v1',#1954,#1951);
+'HL2Modification - Mount_Mirror_1mm v2',#1954,#1951);
 #1953=PRODUCT_DEFINITION('Mirror_Mount','Mirror_Mount',#1955,#1951);
 #1954=PRODUCT_DEFINITION_FORMATION('',$,#1961);
 #1955=PRODUCT_DEFINITION_FORMATION('',$,#1962);
 #1956=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'HL2Modification - Mount_Mirror_1mm v1',
-'HL2Modification - Mount_Mirror_1mm v1',(#1961));
+'HL2Modification - Mount_Mirror_1mm v2',
+'HL2Modification - Mount_Mirror_1mm v2',(#1961));
 #1957=PRODUCT_RELATED_PRODUCT_CATEGORY('Mirror_Mount','Mirror_Mount',(#1962));
 #1958=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1959);
@@ -2193,7 +2192,7 @@ SOLID_ANGLE_UNIT()
 'Core Data for Automotive Mechanical Design Process');
 #1960=PRODUCT_CONTEXT('part definition',#1959,'mechanical');
 #1961=PRODUCT('HL2Modification - Mount_Mirror_1mm',
-'HL2Modification - Mount_Mirror_1mm v1',$,(#1960));
+'HL2Modification - Mount_Mirror_1mm v2',$,(#1960));
 #1962=PRODUCT('Mirror_Mount','Mirror_Mount',$,(#1960));
 #1963=PRESENTATION_STYLE_ASSIGNMENT((#1964));
 #1964=SURFACE_STYLE_USAGE(.BOTH.,#1965);
