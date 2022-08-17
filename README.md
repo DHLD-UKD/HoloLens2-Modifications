@@ -15,8 +15,19 @@ This mount could also be customized to attach additional optical components to t
 All parts are available as STL or STEP files or as Autodesk Fusion 360 projects for further modifications.
 
 _Base Plate:_
-This part is attached on top of to the HoloLens 2 with screws or for testing with two pins (also avaialble as model). When using the pins, insert threadings must not be used.
+This part is attached on top of to the HoloLens 2 with two screws or pins (also avaialble as 3d printable model). When using the pins, insert threadings must not be used.
 
+_Mirror V1:_
+This part is attached to the _Base Palte_
+
+_Mirror V2:_
+This part is attached to the _Base Palte_
+
+Prism 12.5mm:_
+This part is attached to the _Base Palte_
+
+_Mirror 25mm:_
+This part is attached to the _Base Palte_
 
 ## Components
 ### Optics
