@@ -11,6 +11,13 @@ Deviation by:
 
 This mount could also be customized to attach additional optical components to the HoloLens like, Filters (Polarisation, ND, ..) or magnification lenses.
 
+## 3D Models
+All parts are available as STL or STEP files or as Autodesk Fusion 360 projects for further modifications.
+
+_Base Plate:_
+This part is attached on top of to the HoloLens 2 with screws or for testing with two pins (also avaialble as model). When using the pins, insert threadings must not be used.
+
+
 ## Components
 ### Optics
 
